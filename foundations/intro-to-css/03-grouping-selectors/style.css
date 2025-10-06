@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.but {
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', 'sans-serif';
+}
+
+#type_1 {
+    background-color: yellow;
+}
+
+#type_2 {
+    background-color: black;
+    color: white;
+}
